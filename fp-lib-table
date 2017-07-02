@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pic_nano_footprints)(type KiCad)(uri "$(KIPRJMOD)/lib/pic_nano_footprints.pretty")(options "")(descr ""))
+)
