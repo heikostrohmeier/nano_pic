@@ -3,4 +3,6 @@
 
 it is NOT 1:1 pin compatible to the arduino nano!
 
+I used the Microchip pic32mx270f256b MCU
+
 <img src="https://github.com/heikostrohmeier/nano_pic/blob/master/render/pic_nano_1.png" width="640">
