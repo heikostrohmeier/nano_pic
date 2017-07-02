@@ -1,2 +1,4 @@
 # nano_pic
 32-Bit PIC development board in the size and footprint of an arduino nano
+
+<img src="https://github.com/heikostrohmeier/nano_pic/blob/master/render/pic_nano_1.png" width="640">
